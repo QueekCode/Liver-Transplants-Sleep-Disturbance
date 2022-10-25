@@ -14,6 +14,8 @@ Dataset features biometrics and health related quality of life (HRQOL) outcomes 
 
 Goal of the project was to iteratively build and assess models for predicting patient scores. 
 
+<br>
+
 Biometric and demographic features were implemented in building models to predict scores for the following sleep scales:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Epworth Sleepiness Scale (ESS) 
